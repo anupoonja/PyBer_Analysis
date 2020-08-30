@@ -9,4 +9,16 @@ The purpose of this project is :
 
 ## Results:
 
+### 1. Total rides per city type :
+
+### 2. Total drivers per city type :
+
+### 3. Total fares for each city type : 
+
+### 4. Average fare per ride by city type :
+
+### 5. Average fare per driver by city type : 
+
+### 6. Total fare amount for each date and time :
+
 ## Summary:
