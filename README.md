@@ -9,7 +9,13 @@ The purpose of this project is :
 
 ## Results:
 
+The summary of the total rides, total driver count, total fare, average fare per ride and average fare by driver by city type can be found in the figure below.
+
+![City Ride Summary](analysis/City_Ride_Summary_DataFrame.png)
+
 ### 1. Total rides per city type :
+
+Total rides by city type can be found 
 
 ### 2. Total drivers per city type :
 
