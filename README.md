@@ -21,7 +21,7 @@ The summary of the total rides, total driver count, total fare, average fare per
 
 ![Total rides percentage](analysis/Fig6.png)
 
-The total rides in the urban city type 3 and 13 times higher than suburban and rural city types. The disparity between urban and rural city type is very huge.
+The total rides in the urban city type is 3 and 13 times higher than suburban and rural city types respectively. The disparity between urban and rural city type is very huge.
 
 ### 2. Total drivers per city type :
 
@@ -41,7 +41,7 @@ The total drivers in rural city type are much lower than in urban and suburban c
 
 ![Total fare percentage](analysis/Fig5.png)
 
-The total fares in urban city types is much higher than suburban and rural city types.
+The total fares in urban city types is much higher than suburban and rural city types. Urban city type has more than 50% of the total fares.
 
 ### 4. Average fare per ride by city type :
 
