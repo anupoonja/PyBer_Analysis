@@ -21,7 +21,7 @@ The summary of the total rides, total driver count, total fare, average fare per
 
 ![Total rides percentage](analysis/Fig6.png)
 
-The total rides in the urban city type is much higher than in suburban and rural city types.
+The total rides in the urban city type 3 and 13 times higher than suburban and rural city types. The disparity between urban and rural city type is very huge.
 
 ### 2. Total drivers per city type :
 
@@ -70,4 +70,12 @@ The total weekly fare amount for each date per city type can be found in the mul
 ![Total fare amount](analysis/PyBer_fare_summary.png)
 
 ## Summary:
+
+The rural and suburan cities are having lesser number of drivers, leading to lesser number of rides, lower total fares and higher average fare per ride.
+
+These disparties can be reduced to large extent with the following three recommendations:
+
+- Increase the total driver count in rural and suburban city types. This will lead to increase in the total ride count in those city types and reduce the disparity.
+- Reduce the fare per ride, thereby bringing down the average fare per ride in rural and suburban area. This will make the rides to be more afforable and increase the ride count in rural and suburban area.
+- The rides in rural and suburban city types have to be increased.
 
